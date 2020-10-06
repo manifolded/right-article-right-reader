@@ -1,5 +1,6 @@
 data/
 *.csv
+top*
 .ipynb_checkpoints/
 __pycache__/
 *~
