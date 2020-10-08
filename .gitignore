@@ -1,6 +1,7 @@
 data/
 *.csv
 top*
+user_item_matrix.p
 .ipynb_checkpoints/
 __pycache__/
 *~
